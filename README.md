@@ -6,6 +6,11 @@
 - ⚛️ Co-organize [React Medellín](https://meetup.com/react-medellin)
 - 🤝 I sparingly contribute to Open Source
 - 👨‍🏫 I enjoy technical mentoring **a lot**.
+- 📝 occasionally blog about technical topics
+
+## Technical Writing
+
+I'm getting into the habit of writing, you can check out my blog at https://alejandro.dev
 
 ## Technical Mentoring
 
