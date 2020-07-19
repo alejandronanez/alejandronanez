@@ -2,7 +2,7 @@
 
 - 💼 Frontend Engineer @zapier
 - 🏡 Medellín, Colombia
-- 🌱 Learning Elixir
+- 🌱  Learning Elixir and Module Federation
 - ⚛️ Co-organize [React Medellín](https://meetup.com/react-medellin)
 - 🤝 I sparingly contribute to Open Source
 - 👨‍🏫 I enjoy technical mentoring **a lot**.
