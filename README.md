@@ -8,7 +8,7 @@
 - 👨‍🏫 I enjoy technical mentoring **a lot**.
 - 📝 occasionally blog about technical topics
 
-## Technical Writing
+## 📝 My blog
 
 I'm getting into the habit of writing, you can check out my blog at https://alejandro.dev
 
