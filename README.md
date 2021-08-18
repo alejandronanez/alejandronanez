@@ -1,8 +1,8 @@
 # 👋🏼, hi I'm Alejandro
 
-- 💼 Frontend Engineer @zapier
+- 💼 Frontend Engineer
 - 🏡 Medellín, Colombia
-- 🌱  Learning Elixir and Module Federation
+- 🌱 TypeScript + React
 - ⚛️ Co-organize [React Medellín](https://meetup.com/react-medellin)
 - 🤝 I sparingly contribute to Open Source
 - 👨‍🏫 I enjoy technical mentoring **a lot**.
