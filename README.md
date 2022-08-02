@@ -1,6 +1,6 @@
 # 👋🏼, hi I'm Alejandro
 
-- 💼 Frontend Engineer [@stedi](https://github.com/stedi)
+- 💼 Software engineer
 - 🏡 Medellín, Colombia
 - 🌱 TypeScript + React
 - ⚛️ Co-organize [React Medellín](https://meetup.com/react-medellin)
