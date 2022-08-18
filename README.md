@@ -1,4 +1,4 @@
-# 👋🏼, hi I'm Alejandro
+# 👋🏼, hi I'm Alejandro and I'm open for work
 
 - 💼 Senior Software engineer
 - 🎬 I'm an https://egghead.io instructor
