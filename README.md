@@ -1,7 +1,7 @@
 # 👋🏼, hi I'm Alejandro
 
 - 💼 Senior Software engineer
-- 🎬 I'm an @eggheadio instructor
+- 🎬 I'm an https://egghead.io instructor
 - 🏡 Medellín, Colombia
 - 🌱 TypeScript + React
 - ⚛️ Co-organize [React Medellín](https://meetup.com/react-medellin)
