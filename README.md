@@ -1,6 +1,6 @@
-# 👋🏼, hi I'm Alejandro and I'm open for work
+# 👋🏼, hi I'm Alejandro
 
-- 💼 Senior Software engineer
+- 💼 Founding engineer https://immigo.io
 - 🎬 I'm an https://egghead.io instructor
 - 🏡 Medellín, Colombia
 - 🌱 TypeScript + React
