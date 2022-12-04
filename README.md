@@ -1,12 +1,16 @@
-# 👋🏼, hi I'm Alejandro
+# 👋🏼, hi I'm Alejandro Ñáñez
 
-- 💼 Founding engineer https://immigo.io
-- 🎬 I'm an https://egghead.io instructor
-- 🏡 Medellín, Colombia
-- 🌱 TypeScript + React
-- ⚛️ Co-organize [React Medellín](https://meetup.com/react-medellin)
-- 🤝 I sparingly contribute to Open Source
-- 👨‍🏫 I like mentoring.
+- **Currently looking for a job as a Senior Software Engineer**.
+- Teach about Next.js, and Monorepos at [Egghead.io](https://egghead.io) instructor.
+- Live in Colombia.
+- Use TypeScript + React on a daily basis.
+- Co-organize [React Medellín](https://meetup.com/react-medellin).
+- I'm a mentor in [@the-collab-lab](https://github.com/the-collab-lab)
+
+## Contact
+- <a href="mailto:git@alejandro.dev">git@alejandro.dev</a>
+- [@alejandronanez on Twitter](https://twitter.com/alejandronanez)
+- [Alejandro Nanez on LinkedIn](https://linkedin.com/li/alejandronanez)
 
 ## My Courses
 
