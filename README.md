@@ -1,6 +1,6 @@
 # 👋🏼, hi I'm Alejandro Ñáñez
 
-- **Currently looking for a job as a Senior Software Engineer**.
+- Senior Software Engineer https://rechargepayments.com
 - Teach about Next.js, and Monorepos at [Egghead.io](https://egghead.io) instructor.
 - Live in Colombia.
 - Use TypeScript + React on a daily basis.
@@ -9,7 +9,7 @@
 
 ## Contact
 - <a href="mailto:git@alejandro.dev">git@alejandro.dev</a>
-- [@alejandronanez on Twitter](https://twitter.com/alejandronanez)
+- [@alejandronanez on Mastodon](https://hachyderm.io/@alejandronanez)
 - [Alejandro Nanez on LinkedIn](https://linkedin.com/li/alejandronanez)
 
 ## My Courses
