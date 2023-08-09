@@ -1,6 +1,6 @@
 # 👋🏼, hi I'm Alejandro Ñáñez
 
-- Senior Software Engineer looking for a job!
+- Senior Software Engineer!
 - Teach about Next.js, and Monorepos at [Egghead.io](https://egghead.io) instructor.
 - Live in Colombia.
 - Use TypeScript + React on a daily basis.
