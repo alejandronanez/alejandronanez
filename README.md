@@ -1,15 +1,6 @@
-# 👋🏼, hi I'm Alejandro Ñáñez
-
-- Senior Software Engineer!
-- Teach about Next.js, and Monorepos at [Egghead.io](https://egghead.io) instructor.
-- Live in Colombia.
-- Use TypeScript + React on a daily basis.
-- Co-organize [React Medellín](https://meetup.com/react-medellin).
-- I'm a mentor in [@the-collab-lab](https://github.com/the-collab-lab)
+Hi, I'm Alejandro. Worked most of my career as a frontend engineer, now diving into backend with Kotlin and Node. I like building practical solutions and solving people's problems.
 
 ## Contact
-- <a href="mailto:git@alejandro.dev">git@alejandro.dev</a>
-- [@alejandronanez on Mastodon](https://hachyderm.io/@alejandronanez)
 - [Alejandro Nanez on LinkedIn](https://linkedin.com/li/alejandronanez)
 
 ## My Courses
