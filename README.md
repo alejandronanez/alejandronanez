@@ -1,7 +1,7 @@
 Hi, I'm Alejandro. Worked most of my career as a frontend engineer, now diving into backend with Kotlin and Node.
 
 ## Contact
-- [Alejandro Nanez on LinkedIn](https://linkedin.com/li/alejandronanez)
+- [Alejandro Nanez on LinkedIn](https://linkedin.com/in/alejandronanez)
 
 ## My Courses
 
