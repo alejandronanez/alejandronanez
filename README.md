@@ -1,4 +1,4 @@
-Hi, I'm Alejandro. Worked most of my career as a frontend engineer, now diving into backend with Kotlin and Node. I like building practical solutions and solving people's problems.
+Hi, I'm Alejandro. Worked most of my career as a frontend engineer, now diving into backend with Kotlin and Node.
 
 ## Contact
 - [Alejandro Nanez on LinkedIn](https://linkedin.com/li/alejandronanez)
