@@ -1,4 +1,6 @@
-Hi, I'm Alejandro. Worked most of my career as a frontend engineer, now diving into backend with Kotlin and Node. Building sideprojects with Laravel.
+Hi, I'm Alejandro. Worked most of my career as a frontend engineer, now diving into backend with Kotlin and Node.
+
+Building sideprojects with Laravel and Phoenix.
 
 ## Contact
 - [Alejandro Nanez on LinkedIn](https://linkedin.com/in/alejandronanez)
