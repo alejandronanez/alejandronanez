@@ -1,4 +1,4 @@
-Hi, I'm Alejandro. Worked most of my career as a frontend engineer, now diving into backend with Kotlin and Node.
+Hi, I'm Alejandro. Worked most of my career as a frontend engineer and now I'm working fullstack with Typescript.
 
 Building sideprojects with Laravel and Phoenix.
 
